@@ -1,0 +1,130 @@
+{
+    "main": {
+      "name": "Gurmanpreet Kaur Grewal",
+      "occupation": "Web Developer",
+      "description": "I have a diverse set of skills ranging from HTML5 to CSS3, javascript, C#, .Net, Android development with java, PHP. I'm enthusiastic about my work.",
+      "image": "pp.jpg",
+      "bio": "Hi there! I am Gurman! a web developer with one year experience in JavaScript (ES6), ReactJS (advanced JavaScript library), HTML5, CSS3. Lately, I have been working on web applications using MERN Stack | ReactJS | JavaScript | NodeJS | MongoDB and developed an urge to thrive in MERN Stack development and pave my way towards the same. Also, I have experience of 3 years as an Assistant Professor teaching object-oriented programming C++ | Data Structure | Operating System. Self-motivated and possess good communication skills.",
+      "project_Work":{
+        "project1": "- E-Commerce website named Drapsio in MERN Stack and REST APIs used for CRUD operations.",
+        "project2": "- ReactFlix (Netflix clone) using React, TMDB APIs and deployed on Firebase",
+        "project3": "- Recipe App designed in React and REST API to fetch and display data",
+        "project4": "- Bakery website named Baking Bella using MEAN stack and REST APIs used for CRUD operations.",
+        "project5": "- E-Commerce website named Geekillus using woo-commerce in WordPress.",
+        "project6": "- Bakery Android Application using Java language and Firebase.",
+        "project7":"- Designed Mockup for Furniture website named JK Furniture using Adobe Photoshop2020."
+      }, 
+      "contactmessage": "Get in touch with me!",
+      "email": "ggurman20@gmail.com",
+      "phone": "+1 437 987 3711",
+      "address": {
+        "street": "1-8810 Sheppard Ave E",
+        "city": "Scarborough",
+        "state": "Ontario",
+        "zip": "M1B 6J4"
+      },
+      "website": "",
+      "resumedownload": "Gurmanpreet Kaur Grewal.docx",
+      "social": [
+       
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/gurmanpreet-kaur-grewal-628525212/",
+          "className": "fa fa-linkedin"
+        },
+        
+        {
+          "name": "github",
+          "url": "https://github.com/Gurman123",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "My Programming Language Proficiency",
+      "education": [
+        {
+          "school": "Conestoga College - Kitchener, Ontario",
+          "degree": "PG Certification, Web Design and Development ",
+          "graduated": "August 2021",
+          "description": "Graduated with High Distinction"
+        }
+      ],
+      "work": [
+        {
+          "company": "Punjab Agricultural University - India",
+          "title": "Web Developer",
+          "years": "October 2019 - August 2020",
+          "description":"Worked on web application using ReactJS, CSS3, JavaScript (ES6), and firebase for National Agricultural Higher Education Project CAAST-SNRM."
+                       
+        },
+        {
+            "company": "Bhutta College of Engineering & Technology - India",
+            "title": "Assistant Professor",
+            "years": "August 2016 -  October 2019",
+            "description": "Taught C++, Data Structure, and Operating System."
+          }
+
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "100%"
+        },
+        {
+          "name": "Node.js",
+          "level": "85%"
+        },
+        {
+          "name": "Git",
+          "level": "70%"
+        },
+        {
+          "name": "JavaScript (ES6)",
+          "level": "99%"
+        },
+        {
+          "name": "HTML5",
+          "level": "100%"
+        },
+        {
+          "name" : "CSS3",
+          "level" : "95%"
+        },
+        {
+          "name": "Web Development",
+          "level": "95%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "ReactFlix (Netflix Clone)",
+          "category": "",
+          "image": "Reactflix.png",
+          "url": "https://reactflix-41834.web.app/ "
+        },
+        {
+          "title": "Drapsio (MERN Stack)",
+          "category": "",
+          "image": "Drapsio.PNG",
+          "url": "http://drapsio.herokuapp.com/"
+        },
+        {
+          "title": "Geekillus (WordPress)",
+          "category": "",
+          "image": "Geekillus.png",
+          "url": "https://geekillus.altervista.org/"
+        },
+        {
+          "title": "Baking Bella (MEAN Stack but not deployed)",
+          "category": "",
+          "image": "Angular.jpeg"
+         
+        }
+      ]
+    }
+   
+  }
+  

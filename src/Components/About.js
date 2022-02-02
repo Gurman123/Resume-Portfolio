@@ -56,9 +56,9 @@ export const About = ({data}) => {
                 <span >{name}</span>
                 <br />
                 <span>
-                  {street}
-                  <br />
-                  {city} {state}, {zip}
+                {city} 
+                  
+                  
                 </span>
                 <br />
                 <span>{phone}</span>

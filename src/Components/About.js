@@ -9,7 +9,7 @@ export const About = ({data}) => {
         var state = data.address.state;
         var phone = data.phone;
         var email = data.email;
-        var resumedownload = data.resumedownload;
+        var resume = data.resumedownload;
         var project1 = data.project_Work.project1;
         var project2 = data.project_Work.project2;
         var project3 = data.project_Work.project3;
@@ -64,7 +64,7 @@ export const About = ({data}) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumedownload} className="button">
+                <a href={resume} className="button"  download>
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>

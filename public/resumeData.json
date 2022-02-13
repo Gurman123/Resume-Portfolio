@@ -4,7 +4,7 @@
       "occupation": "Web Developer",
       "description": "I have a diverse set of skills ranging from HTML5 to CSS3, javascript, C#, .Net, Android development with java, PHP. I'm enthusiastic about my work.",
       "image": "pp.jpg",
-      "bio": "Hi there! I am Gurman! a web developer with one year experience in JavaScript (ES6), ReactJS (advanced JavaScript library), HTML5, CSS3. Lately, I have been working on web applications using MERN Stack | ReactJS | JavaScript | NodeJS | MongoDB and developed an urge to thrive in MERN Stack development and pave my way towards the same. Also, I have experience of 3 years as an Assistant Professor teaching object-oriented programming C++ | Data Structure | Operating System. Self-motivated and possess good communication skills.",
+      "bio": "Hi there! I am Gurman! a web developer with one year experience in JavaScript (ES6), ReactJS (advanced JavaScript library), HTML5, CSS3, Firebase. Lately, I have been working on web applications using MERN Stack | ReactJS | JavaScript | NodeJS | MongoDB and developed an urge to thrive in MERN Stack development and pave my way towards the same. Also, I have experience of 3 years as an Assistant Professor teaching Web Application Development | object-oriented programming C++ | Data Structure | Operating System. Self-motivated and possess good communication skills.",
       "project_Work":{
         "project1": "- E-Commerce website named Drapsio in MERN Stack and REST APIs used for CRUD operations.",
         "project2": "- ReactFlix (Netflix clone) using React, TMDB APIs and deployed on Firebase",
@@ -24,7 +24,7 @@
         "zip": "M1B 6J4"
       },
       "website": "",
-      "resumedownload": "/resume/GurmanpreetKaurGrewal.pdf",
+      "resumedownload": "/resume/Gurmanpreet Kaur Grewal.pdf",
       "social": [
        
         {
